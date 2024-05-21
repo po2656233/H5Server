@@ -1,0 +1,132 @@
+
+bl_vfx_a_screen.png
+size: 387,695
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_page_02
+  rotate: false
+  xy: 297, 629
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+bl_page_03
+  rotate: false
+  xy: 297, 440
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+bl_page_04
+  rotate: false
+  xy: 331, 409
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+bl_page_05
+  rotate: true
+  xy: 359, 473
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+bl_page_06
+  rotate: true
+  xy: 297, 407
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+bl_page_07
+  rotate: false
+  xy: 359, 431
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+bl_vfx_a_screen_01
+  rotate: true
+  xy: 271, 22
+  size: 118, 107
+  orig: 118, 107
+  offset: 0, 0
+  index: -1
+bl_vfx_a_screen_02
+  rotate: false
+  xy: 145, 268
+  size: 138, 136
+  orig: 138, 136
+  offset: 0, 0
+  index: -1
+bl_vfx_a_screen_03
+  rotate: false
+  xy: 2, 404
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+bl_vfx_a_screen_04
+  rotate: true
+  xy: 150, 550
+  size: 143, 145
+  orig: 143, 145
+  offset: 0, 0
+  index: -1
+bl_vfx_a_screen_05
+  rotate: false
+  xy: 2, 547
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+bl_vfx_a_screen_06
+  rotate: true
+  xy: 150, 406
+  size: 142, 145
+  orig: 142, 145
+  offset: 0, 0
+  index: -1
+bl_vfx_b_screen
+  rotate: false
+  xy: 141, 138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bl_vfx_c_screen
+  rotate: true
+  xy: 2, 2
+  size: 400, 137
+  orig: 400, 137
+  offset: 0, 0
+  index: -1
+bl_vfx_d_screen
+  rotate: true
+  xy: 297, 492
+  size: 135, 80
+  orig: 135, 80
+  offset: 0, 0
+  index: -1
+bw_vfx_a_normal_03
+  rotate: false
+  xy: 285, 142
+  size: 97, 125
+  orig: 97, 136
+  offset: 0, 7
+  index: -1
+bw_vfx_e_screen_03
+  rotate: false
+  xy: 285, 269
+  size: 97, 135
+  orig: 97, 135
+  offset: 0, 0
+  index: -1
+fs_vfx_c_add
+  rotate: false
+  xy: 141, 11
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
